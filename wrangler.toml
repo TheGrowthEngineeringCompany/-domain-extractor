@@ -1,4 +1,4 @@
-name = "" # todo
+name = "domain-extractor"
 workers_dev = true
 
 main = "build/worker/shim.mjs"
